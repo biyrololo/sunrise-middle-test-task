@@ -1,0 +1,17 @@
+@use '@/shared/config' as *;
+
+.listItem{
+    display: grid;
+    gap: 10px;
+    @include rounded-container;
+    &__title{
+        font-weight: 500;
+        font-size: 1.5rem;
+    }
+    &__price{
+        font-size: 1.3rem;
+    }
+    &__brand{
+        font-size: 0.8rem;
+    }
+}

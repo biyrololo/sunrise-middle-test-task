@@ -1,0 +1,26 @@
+.message{
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 3rem;
+    opacity: 0.6;
+}
+
+.product{
+    display: grid;
+    box-sizing: border-box;
+    padding-inline: 80px;
+    gap: 20px;
+    &__title{
+        font-weight: 500;
+        font-size: 2rem;
+    }
+    &__price{
+        font-size: 1.5rem;
+    }
+    &__brand{
+        font-size: 1.2rem;
+    }
+    &__description{
+        font-size: 1.3rem;
+    }
+}

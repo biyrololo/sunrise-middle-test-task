@@ -1,0 +1,242 @@
+[
+    {
+      "id": 1,
+      "name": "Смартфон X",
+      "brand": "TechCorp",
+      "price": 79990,
+      "description": "Последняя модель смартфона с 6.5-дюймовым OLED-дисплеем и 128 ГБ памяти. Последняя модель смартфона с 6.5-дюймовым OLED-дисплеем и 128 ГБ памяти. Последняя модель смартфона с 6.5-дюймовым OLED-дисплеем и 128 ГБ памяти. Последняя модель смартфона с 6.5-дюймовым OLED-дисплеем и 128 ГБ памяти.",
+      "isNew": true
+    },
+    {
+      "id": 2,
+      "name": "Ноутбук Pro",
+      "brand": "UltraBooks",
+      "price": 129990,
+      "description": "Мощный ноутбук с 15.6-дюймовым 4K-дисплеем и 16 ГБ оперативной памяти.",
+      "isNew": false
+    },
+    {
+      "id": 3,
+      "name": "Беспроводные наушники",
+      "brand": "SoundMaster",
+      "price": 14990,
+      "description": "Наушники с шумоподавлением и временем работы до 24 часов.",
+      "isNew": true
+    },
+    {
+      "id": 4,
+      "name": "Умные часы 3",
+      "brand": "FitTech",
+      "price": 19990,
+      "description": "Умные часы с мониторингом сердечного ритма и GPS.",
+      "isNew": false
+    },
+    {
+      "id": 5,
+      "name": "4K Телевизор",
+      "brand": "VisionPlus",
+      "price": 89990,
+      "description": "55-дюймовый 4K UHD Smart TV с поддержкой HDR.",
+      "isNew": true
+    },
+    {
+      "id": 6,
+      "name": "Игровая консоль",
+      "brand": "NextGen",
+      "price": 49990,
+      "description": "Игровая консоль нового поколения с 1 ТБ памяти.",
+      "isNew": false
+    },
+    {
+      "id": 7,
+      "name": "Портативная колонка",
+      "brand": "AudioWave",
+      "price": 7990,
+      "description": "Портативная Bluetooth-колонка с временем работы до 20 часов.",
+      "isNew": true
+    },
+    {
+      "id": 8,
+      "name": "Планшет Mini",
+      "brand": "TechCorp",
+      "price": 29990,
+      "description": "8-дюймовый планшет с 64 ГБ памяти и 4 ГБ оперативной памяти.",
+      "isNew": false
+    },
+    {
+      "id": 9,
+      "name": "Наушники с шумоподавлением",
+      "brand": "SoundMaster",
+      "price": 34990,
+      "description": "Накладные наушники с активным шумоподавлением.",
+      "isNew": true
+    },
+    {
+      "id": 10,
+      "name": "Умный дом-хаб",
+      "brand": "HomeTech",
+      "price": 12990,
+      "description": "Управляйте устройствами умного дома с помощью этого хаба.",
+      "isNew": false
+    },
+    {
+      "id": 11,
+      "name": "Дрон Pro",
+      "brand": "SkyTech",
+      "price": 59990,
+      "description": "Дрон с 4K-камерой и временем полета до 30 минут.",
+      "isNew": true
+    },
+    {
+      "id": 12,
+      "name": "Фитнес-браслет",
+      "brand": "FitTech",
+      "price": 9990,
+      "description": "Отслеживайте шаги, пульс и сон с этим фитнес-браслетом.",
+      "isNew": false
+    },
+    {
+      "id": 13,
+      "name": "Внешний SSD",
+      "brand": "DataFast",
+      "price": 12990,
+      "description": "1 ТБ внешний SSD с подключением через USB-C.",
+      "isNew": true
+    },
+    {
+      "id": 14,
+      "name": "Беспроводная мышь",
+      "brand": "TechCorp",
+      "price": 4990,
+      "description": "Эргономичная беспроводная мышь с настраиваемыми кнопками.",
+      "isNew": false
+    },
+    {
+      "id": 15,
+      "name": "Механическая клавиатура",
+      "brand": "KeyMaster",
+      "price": 8990,
+      "description": "Механическая клавиатура с RGB-подсветкой и переключателями Cherry MX.",
+      "isNew": true
+    },
+    {
+      "id": 16,
+      "name": "Монитор UltraWide",
+      "brand": "VisionPlus",
+      "price": 49990,
+      "description": "34-дюймовый ультраширокий монитор с частотой обновления 144 Гц.",
+      "isNew": false
+    },
+    {
+      "id": 17,
+      "name": "Портативное зарядное устройство",
+      "brand": "PowerUp",
+      "price": 3990,
+      "description": "20000 мАч портативное зарядное устройство с поддержкой быстрой зарядки.",
+      "isNew": true
+    },
+    {
+      "id": 18,
+      "name": "Умная лампочка",
+      "brand": "HomeTech",
+      "price": 1990,
+      "description": "RGB-умная лампочка, управляемая через приложение.",
+      "isNew": false
+    },
+    {
+      "id": 19,
+      "name": "Игровая мышь",
+      "brand": "NextGen",
+      "price": 6990,
+      "description": "Высокоточная игровая мышь с настраиваемым весом.",
+      "isNew": true
+    },
+    {
+      "id": 20,
+      "name": "VR-шлем",
+      "brand": "VisionPlus",
+      "price": 29990,
+      "description": "Иммерсивный VR-шлем с углом обзора 110 градусов.",
+      "isNew": false
+    },
+    {
+      "id": 21,
+      "name": "Умный термостат",
+      "brand": "HomeTech",
+      "price": 14990,
+      "description": "Умный термостат, который изучает ваш график и экономит энергию.",
+      "isNew": true
+    },
+    {
+      "id": 22,
+      "name": "Экшн-камера",
+      "brand": "AdventureCam",
+      "price": 19990,
+      "description": "4K экшн-камера с водонепроницаемым корпусом.",
+      "isNew": false
+    },
+    {
+      "id": 23,
+      "name": "Беспроводной роутер",
+      "brand": "NetMaster",
+      "price": 12990,
+      "description": "Двухдиапазонный Wi-Fi роутер с гигабитными портами Ethernet.",
+      "isNew": true
+    },
+    {
+      "id": 24,
+      "name": "Электронная книга",
+      "brand": "BookTech",
+      "price": 12990,
+      "description": "6-дюймовая электронная книга с антибликовым экраном.",
+      "isNew": false
+    },
+    {
+      "id": 25,
+      "name": "Умная розетка",
+      "brand": "HomeTech",
+      "price": 2990,
+      "description": "Управляйте приборами удаленно с помощью этой умной розетки.",
+      "isNew": true
+    },
+    {
+      "id": 26,
+      "name": "Игровое кресло",
+      "brand": "ComfortSeat",
+      "price": 19990,
+      "description": "Эргономичное игровое кресло с поддержкой поясницы.",
+      "isNew": false
+    },
+    {
+      "id": 27,
+      "name": "Внешний жесткий диск",
+      "brand": "DataFast",
+      "price": 7990,
+      "description": "2 ТБ внешний жесткий диск с подключением USB 3.0.",
+      "isNew": true
+    },
+    {
+      "id": 28,
+      "name": "Умные весы",
+      "brand": "FitTech",
+      "price": 4990,
+      "description": "Отслеживайте вес, ИМТ и процент жира с помощью этих умных весов.",
+      "isNew": false
+    },
+    {
+      "id": 29,
+      "name": "Беспроводная зарядка",
+      "brand": "PowerUp",
+      "price": 2990,
+      "description": "Беспроводная зарядка, совместимая с Qi, для смартфонов.",
+      "isNew": true
+    },
+    {
+      "id": 30,
+      "name": "Умный дверной звонок",
+      "brand": "HomeTech",
+      "price": 19990,
+      "description": "Видеодомофон с обнаружением движения и двусторонней аудиосвязью.",
+      "isNew": false
+    }
+  ]
