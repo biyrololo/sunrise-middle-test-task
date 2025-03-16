@@ -34,7 +34,7 @@ export function Products() {
                 return a[parameters.sort.name] < b[parameters.sort.name] ? 1 : -1;
             }
         })
-    }, [products, parameters, page]);
+    }, [products, parameters]);
 
     if(isLoading) {
         return <div className={classes.message}>Загрузка...</div>

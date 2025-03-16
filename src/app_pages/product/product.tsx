@@ -28,7 +28,7 @@ export function Product(){
     }
 
     if(isError || !product) {
-        return <h1 className={classes.message}>Error</h1>
+        return <h1 className={classes.message}>Товар не найден</h1>
     }
 
     const count = cart_items[product.id]?.count || 0;
